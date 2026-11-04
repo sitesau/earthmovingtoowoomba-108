@@ -1,0 +1,22 @@
+{
+  "wheel_id": 751,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-108",
+  "project": "earthmoving-services-toowoomba-beginner-guide-00bb5915c6a2d043f",
+  "parent_t1_ref": "earthmovingtoowoomba-153",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-services-toowoomba-beginner-guide-00bb5915c6a2d043f/",
+  "tier": "T2",
+  "writeback_nonce": "aeed0645435c0594",
+  "links": [
+    {
+      "target_url": "http://earthmoving-services-toowoomba-f6afc9debf72dfd74cec1d7e9873b4a8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Earthmoving Services Toowoomba: Clearer Briefs Before Quotes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
